@@ -8,3 +8,20 @@ navigation pages:
   - misc.md
   - archive.md
 
+t:
+  skip_links: "skip links"
+  skip_primary_nav: "skip to primary navigation"
+  skip_content: "skip to content"
+  skip_footer: "skip to footer"
+  menu: "menu"
+  home: "home"
+  newer: "newer"
+  older: "older"
+  email: "email"
+  subscribe: "subscribe"
+  read_more: "read more"
+  posts: "posts"
+  page: "page"
+  of: "of"
+  min_read: "min read"
+  present: "present"

@@ -1,5 +1,6 @@
 ---
 layout: tags
-title: Archive
+title: archive
 entries_layout: list
 ---
+<hr>

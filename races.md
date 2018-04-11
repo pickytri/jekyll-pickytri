@@ -1,9 +1,8 @@
 ---
 layout: category
-title: Races
+title: races
 permalink: /tri/
 taxonomy: races
 entries_layout: grid
 ---
-
-Race reports and fitness relates posts:
+<hr>

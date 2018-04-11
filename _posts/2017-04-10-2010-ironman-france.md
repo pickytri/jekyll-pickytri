@@ -49,7 +49,7 @@ Total run: 3.5 hrs (24.5 miles)
 
 This was a pretty typical week for about 3-4 months of training, with the one change being Sundays where it alternated between long runs (up to 3 hrs) and some combination of running and biking. This was of course after months and months of building up to that volume and culminated in the actual race. My longest workout was a few weeks out from the race, a kind of mental prep and it was a triple bike/run consisting of a 2hr bike followed by a 40min run, and doing that three times. I totaled about 115 miles, the bikes were about 30miles a piece and the runs at about 5 miles each. But this post isn&#8217;t supposed to be about my training&#8230; so on to the race.
 
-[The following is the actual race report I wrote probably about a week after finishing. I have added notes in brackets where I remember more and also some pictures].
+].
 
 **swim:**
 
@@ -61,37 +61,29 @@ I&#8217;ve never been in a mass start of 2500 people before, especially not one 
   
 total: 1:04:11 (1:41/100m)
 
-[<img class="alignnone size-large wp-image-207" src="http://pickytri.com/wp-content/uploads/2017/04/if01-1024x768.jpg" alt="" width="525" height="394" srcset="https://pickytri.com/wp-content/uploads/2017/04/if01-1024x768.jpg 1024w, https://pickytri.com/wp-content/uploads/2017/04/if01-300x225.jpg 300w, https://pickytri.com/wp-content/uploads/2017/04/if01-768x576.jpg 768w" sizes="(max-width: 525px) 100vw, 525px" />](http://pickytri.com/wp-content/uploads/2017/04/if01.jpg)
+{% responsive_image path: wp-content/uploads/2017/04/if01.jpg %}
   
-[here we are making our way onto the beach, and the following is the start]
 
-[<img class="alignnone size-large wp-image-208" src="http://pickytri.com/wp-content/uploads/2017/04/if02-1024x768.jpg" alt="" width="525" height="394" srcset="https://pickytri.com/wp-content/uploads/2017/04/if02-1024x768.jpg 1024w, https://pickytri.com/wp-content/uploads/2017/04/if02-300x225.jpg 300w, https://pickytri.com/wp-content/uploads/2017/04/if02-768x576.jpg 768w" sizes="(max-width: 525px) 100vw, 525px" />
-  
-](http://pickytri.com/wp-content/uploads/2017/04/if02.jpg) 
+{% responsive_image path: wp-content/uploads/2017/04/if02.jpg %} 
 
-[<img class="alignnone size-large wp-image-209" src="http://pickytri.com/wp-content/uploads/2017/04/if03-1024x679.jpg" alt="" width="525" height="348" srcset="https://pickytri.com/wp-content/uploads/2017/04/if03-1024x679.jpg 1024w, https://pickytri.com/wp-content/uploads/2017/04/if03-300x199.jpg 300w, https://pickytri.com/wp-content/uploads/2017/04/if03-768x509.jpg 768w" sizes="(max-width: 525px) 100vw, 525px" />
-  
-](http://pickytri.com/wp-content/uploads/2017/04/if03.jpg) [wow a helicopter!]
+
+{% responsive_image path: wp-content/uploads/2017/04/if03.jpg %} 
 
 **T1:**
 
 The route through transition was grab your bag, change in the tent, grab your bike. I really liked this method because there was no clutter near the bikes at all. I decided if I&#8217;m going to be biking for 100+ miles I might as well be comfortable, so I wore my tri shorts and a bike jersey with plenty of pockets for gels and bars, and even a hand pump just in case.  With my pockets full I had to keep my hands on the jersey while I ran to my bike so all my stuff would stay put.
 
 8:23
-
-[<img class="alignnone size-large wp-image-211" src="http://pickytri.com/wp-content/uploads/2017/04/if05-1024x768.jpg" alt="" width="525" height="394" srcset="https://pickytri.com/wp-content/uploads/2017/04/if05-1024x768.jpg 1024w, https://pickytri.com/wp-content/uploads/2017/04/if05-300x225.jpg 300w, https://pickytri.com/wp-content/uploads/2017/04/if05-768x576.jpg 768w" sizes="(max-width: 525px) 100vw, 525px" />
   
-](http://pickytri.com/wp-content/uploads/2017/04/if05.jpg) [here I am in the pirate jersey getting ready for the bike]
+{% responsive_image path: wp-content/uploads/2017/04/if05.jpg %} 
 
-[<img class="alignnone size-large wp-image-212" src="http://pickytri.com/wp-content/uploads/2017/04/if06-1024x768.jpg" alt="" width="525" height="394" srcset="https://pickytri.com/wp-content/uploads/2017/04/if06-1024x768.jpg 1024w, https://pickytri.com/wp-content/uploads/2017/04/if06-300x225.jpg 300w, https://pickytri.com/wp-content/uploads/2017/04/if06-768x576.jpg 768w" sizes="(max-width: 525px) 100vw, 525px" />](http://pickytri.com/wp-content/uploads/2017/04/if06.jpg)[putting on my cycling shoes]
+{% responsive_image path: wp-content/uploads/2017/04/if06.jpg %}
 
-[<img class="alignnone size-large wp-image-213" src="http://pickytri.com/wp-content/uploads/2017/04/if07-1024x768.jpg" alt="" width="525" height="394" srcset="https://pickytri.com/wp-content/uploads/2017/04/if07-1024x768.jpg 1024w, https://pickytri.com/wp-content/uploads/2017/04/if07-300x225.jpg 300w, https://pickytri.com/wp-content/uploads/2017/04/if07-768x576.jpg 768w" sizes="(max-width: 525px) 100vw, 525px" />](http://pickytri.com/wp-content/uploads/2017/04/if07.jpg)
-  
-[still putting on my cycling shoes]
+{% responsive_image path: wp-content/uploads/2017/04/if07.jpg %}
 
-[<img class="alignnone size-large wp-image-214" src="http://pickytri.com/wp-content/uploads/2017/04/if08-1024x768.jpg" alt="" width="525" height="394" srcset="https://pickytri.com/wp-content/uploads/2017/04/if08-1024x768.jpg 1024w, https://pickytri.com/wp-content/uploads/2017/04/if08-300x225.jpg 300w, https://pickytri.com/wp-content/uploads/2017/04/if08-768x576.jpg 768w" sizes="(max-width: 525px) 100vw, 525px" />](http://pickytri.com/wp-content/uploads/2017/04/if08.jpg)
-  
-[alright, finally ready for that 112 mile bike ride, just grab some nutrition]
+
+{% responsive_image path: wp-content/uploads/2017/04/if08.jpg %}
+
 
 **bike:**
 
@@ -99,19 +91,16 @@ Wow, the bike course is absolutely stunning.  As I got to about 12miles or so w
 
 overall: 6:18:14 (17.7mph)
 
-[<img class="alignnone size-large wp-image-215" src="http://pickytri.com/wp-content/uploads/2017/04/if09-899x1024.jpeg" alt="" width="525" height="598" srcset="https://pickytri.com/wp-content/uploads/2017/04/if09-899x1024.jpeg 899w, https://pickytri.com/wp-content/uploads/2017/04/if09-263x300.jpeg 263w, https://pickytri.com/wp-content/uploads/2017/04/if09-768x875.jpeg 768w" sizes="(max-width: 525px) 100vw, 525px" />](http://pickytri.com/wp-content/uploads/2017/04/if09.jpeg)
-  
-[somewhere on the bike course between 15 and 85miles]
+{% responsive_image path: wp-content/uploads/2017/04/if09.jpeg %}
 
-[<img class="alignnone size-large wp-image-216" src="http://pickytri.com/wp-content/uploads/2017/04/if10-1024x893.jpeg" alt="" width="525" height="458" srcset="https://pickytri.com/wp-content/uploads/2017/04/if10-1024x893.jpeg 1024w, https://pickytri.com/wp-content/uploads/2017/04/if10-300x262.jpeg 300w, https://pickytri.com/wp-content/uploads/2017/04/if10-768x670.jpeg 768w" sizes="(max-width: 525px) 100vw, 525px" />](http://pickytri.com/wp-content/uploads/2017/04/if10.jpeg)
-  
-[further along the bike course]
 
-[<img class="alignnone size-large wp-image-217" src="http://pickytri.com/wp-content/uploads/2017/04/if11-1024x682.jpeg" alt="" width="525" height="350" srcset="https://pickytri.com/wp-content/uploads/2017/04/if11-1024x682.jpeg 1024w, https://pickytri.com/wp-content/uploads/2017/04/if11-300x200.jpeg 300w, https://pickytri.com/wp-content/uploads/2017/04/if11-768x511.jpeg 768w" sizes="(max-width: 525px) 100vw, 525px" />](http://pickytri.com/wp-content/uploads/2017/04/if11.jpeg)[coming down the home stretch at about 110 miles here, you can see the salt stains on my bike shorts from all the sweat]
+{% responsive_image path: wp-content/uploads/2017/04/if10.jpeg %}
 
-[<img class="alignnone size-large wp-image-218" src="http://pickytri.com/wp-content/uploads/2017/04/if12-684x1024.jpeg" alt="" width="525" height="786" srcset="https://pickytri.com/wp-content/uploads/2017/04/if12-684x1024.jpeg 684w, https://pickytri.com/wp-content/uploads/2017/04/if12-200x300.jpeg 200w, https://pickytri.com/wp-content/uploads/2017/04/if12-768x1151.jpeg 768w" sizes="(max-width: 525px) 100vw, 525px" />](http://pickytri.com/wp-content/uploads/2017/04/if12.jpeg)
-  
-[still coming down the home stretch]
+
+{% responsive_image path: wp-content/uploads/2017/04/if11.jpeg %}
+
+{% responsive_image path: wp-content/uploads/2017/04/if12.jpeg %}
+
 
 **T2:**
 
@@ -129,19 +118,15 @@ splits by half lap: 28:50, 31:33, 33:27, 34:56, 48:16, 45:05, 35:46, 38:09
   
 total: 4:56:02 (11:17/mile)
 
-[<img class="alignnone size-large wp-image-220" src="http://pickytri.com/wp-content/uploads/2017/04/if14-1024x768.jpg" alt="" width="525" height="394" srcset="https://pickytri.com/wp-content/uploads/2017/04/if14-1024x768.jpg 1024w, https://pickytri.com/wp-content/uploads/2017/04/if14-300x225.jpg 300w, https://pickytri.com/wp-content/uploads/2017/04/if14-768x576.jpg 768w" sizes="(max-width: 525px) 100vw, 525px" />](http://pickytri.com/wp-content/uploads/2017/04/if14.jpg)
+{% responsive_image path: wp-content/uploads/2017/04/if14.jpg %}
   
-[starting the run and adjusting my watch &#8211; look at that tan line!]
 
-[<img class="alignnone size-large wp-image-221" src="http://pickytri.com/wp-content/uploads/2017/04/if15-1024x768.jpg" alt="" width="525" height="394" srcset="https://pickytri.com/wp-content/uploads/2017/04/if15-1024x768.jpg 1024w, https://pickytri.com/wp-content/uploads/2017/04/if15-300x225.jpg 300w, https://pickytri.com/wp-content/uploads/2017/04/if15-768x576.jpg 768w" sizes="(max-width: 525px) 100vw, 525px" />](http://pickytri.com/wp-content/uploads/2017/04/if15.jpg)[rounding a turn]
+{% responsive_image path: wp-content/uploads/2017/04/if15.jpg %}
 
-[<img class="alignnone size-large wp-image-222" src="http://pickytri.com/wp-content/uploads/2017/04/if16-685x1024.jpeg" alt="" width="525" height="785" srcset="https://pickytri.com/wp-content/uploads/2017/04/if16-685x1024.jpeg 685w, https://pickytri.com/wp-content/uploads/2017/04/if16-201x300.jpeg 201w, https://pickytri.com/wp-content/uploads/2017/04/if16-768x1148.jpeg 768w" sizes="(max-width: 525px) 100vw, 525px" />](http://pickytri.com/wp-content/uploads/2017/04/if16.jpeg)
+{% responsive_image path: wp-content/uploads/2017/04/if16.jpeg %}
   
-[coming down the final stretch here, less than 50meters left]
-
-[<img class="alignnone size-large wp-image-223" src="http://pickytri.com/wp-content/uploads/2017/04/if17-687x1024.jpeg" alt="" width="525" height="783" srcset="https://pickytri.com/wp-content/uploads/2017/04/if17-687x1024.jpeg 687w, https://pickytri.com/wp-content/uploads/2017/04/if17-201x300.jpeg 201w, https://pickytri.com/wp-content/uploads/2017/04/if17-768x1144.jpeg 768w" sizes="(max-width: 525px) 100vw, 525px" />](http://pickytri.com/wp-content/uploads/2017/04/if17.jpeg)
-  
-[just crossed the finish line, pretty tired]
+{% responsive_image path: wp-content/uploads/2017/04/if17.jpeg %}
+   
 
 Overall &#8211; great race but I don&#8217;t think I&#8217;ll be doing an ironman next
   

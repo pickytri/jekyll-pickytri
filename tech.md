@@ -1,9 +1,8 @@
 ---
 layout: category
-title: Tech
+title: tech
 permalink: /tech/
 taxonomy: tech
 entries_layout: grid
 ---
-
-Technology and computer relates posts:
+<hr>
