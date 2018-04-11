@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "New technology post"
+date:   2018-04-10 10:20:56 -0400
+categories: tech
+---
+NEW TECH

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "race report"
+date:   2018-04-10 10:15:56 -0400
+categories: races
+---
+RACE REPORT
+
+sample race report with image here:
+
+{% responsive_image path: assets/images/race.jpg %}
+
+how did it work?
+??

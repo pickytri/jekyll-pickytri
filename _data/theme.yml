@@ -1,0 +1,10 @@
+skin: pickytri
+navigation pages:
+  - about.md
+  - food.md
+  - races.md
+  - tech.md
+  - photos.md
+  - misc.md
+  - archive.md
+
