@@ -62,14 +62,14 @@ The speed displayed does lag a bit, as I wasn&#8217;t going 28 approaching the r
 
 The videos I recorded are in two qualities, the low version:
 
-<div style="width: 525px;" class="wp-video">
-  <video class="wp-video-shortcode" id="video-629-6" width="525" height="394" preload="metadata" controls="controls"><source type="video/mp4"/><a href="wp-content/uploads/2017/07/qlo.mp4"></video>
-</div>
+<video width="100%" height="auto" preload="metadata" controls="controls"><source type="video/mp4" src="/wp-content/uploads/2017/07/qlo.mp4">
+</video>
+
 
 and the higher quality version:
 
-<div style="width: 525px;" class="wp-video">
-  <video class="wp-video-shortcode" id="video-629-7" width="525" height="295" preload="metadata" controls="controls"><source type="video/mp4" src="" /><a href="wp-content/uploads/2017/07/qhi.mp4"</a></video>
-</div>
+<video width="100%" height="auto" preload="metadata" controls="controls"><source type="video/mp4" src="/wp-content/uploads/2017/07/qhi.mp4">
+</video>
+
 
 As you can probably tell, the phone shakes quite a bit and disrupts the video a little, which is why I&#8217;m still playing around with the mounting. Perhaps a different mount would work better, or a better position inside the mount. But overall I&#8217;m happy with how it turned out and if there&#8217;s an accident it should be able to help &#8211; hopefully the only thing I&#8217;ll use it for is for interesting sections of road on my upcoming trip.

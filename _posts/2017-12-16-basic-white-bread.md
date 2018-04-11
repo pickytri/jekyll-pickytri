@@ -51,9 +51,8 @@ Into the stand mixer, the first step said combine with paddle attachment.
 
 Then it kneads with the dough hook for 10mins &#8211; the first time I made bread I had to do this manually and it was August in VA and 95F and humid and I didn&#8217;t have AC in the kitchen. It was a workout, I was sweating by the end &#8211; electricity makes things so much easier.
 
-<div style="width: 525px;" class="wp-video">
-  <video class="wp-video-shortcode" id="video-698-10" width="525" height="295" preload="metadata" controls="controls"><source type="video/mp4" src="{% responsive_image path: wp-content/uploads/2017/12/machine_knead.mp4?_=10" /><a href="{% responsive_image path: wp-content/uploads/2017/12/machine_knead.mp4">{% responsive_image path: wp-content/uploads/2017/12/machine_knead.mp4</a></video>
-</div>
+<video width="100%" height="auto" preload="metadata" controls="controls"><source type="video/mp4" src="/wp-content/uploads/2017/12/machine_knead.mp4">
+</video>
 
 Then I like to hand knead it a few times just to get a feel for the dough, making sure everything it touches is floured.
 
@@ -83,9 +82,8 @@ I then turned it out and kneaded it by hand for a few minutes
 
 {% responsive_image path: wp-content/uploads/2017/12/13.jpg %}
 
-<div style="width: 525px;" class="wp-video">
-  <video class="wp-video-shortcode" id="video-698-11" width="525" height="295" preload="metadata" controls="controls"><source type="video/mp4" src="{% responsive_image path: wp-content/uploads/2017/12/knead.mp4?_=11" /><a href="{% responsive_image path: wp-content/uploads/2017/12/knead.mp4">{% responsive_image path: wp-content/uploads/2017/12/knead.mp4</a></video>
-</div>
+<video width="100%" height="auto" preload="metadata" controls="controls"><source type="video/mp4" src="/wp-content/uploads/2017/12/knead.mp4">
+</video>
 
 The recipe called for putting it back in the bowl to rise for another 30mins, but I misread and split into halves and then into the pans to rise.
 

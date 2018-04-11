@@ -99,9 +99,8 @@ And then add the broccoli. This was 2lbs, the recipe calls for 12 cups of floret
 
 At first the broccoli won&#8217;t fit in the liquid, but after a couple minutes it will soften and go down. I think this has something to do with the baking soda.
 
-<div style="width: 525px;" class="wp-video">
-  <video class="wp-video-shortcode" id="video-736-12" width="525" height="295" preload="metadata" controls="controls"><source type="video/mp4" src="{% responsive_image path: wp-content/uploads/2018/01/boil.mp4?_=12" /><a href="{% responsive_image path: wp-content/uploads/2018/01/boil.mp4">{% responsive_image path: wp-content/uploads/2018/01/boil.mp4</a></video>
-</div>
+<video width="100%" height="auto" preload="metadata" controls="controls"><source type="video/mp4" src="/wp-content/uploads/2018/01/boil.mp4">
+</video>
 
 You bring this all to a boil and simmer until the broccoli is tender and olive green.
 
@@ -109,9 +108,8 @@ You bring this all to a boil and simmer until the broccoli is tender and olive g
 
 Meanwhile you can double check on the chicken you have in the sous vide&#8230;
 
-<div style="width: 525px;" class="wp-video">
-  <video class="wp-video-shortcode" id="video-736-13" width="525" height="295" preload="metadata" controls="controls"><source type="video/mp4" src="{% responsive_image path: wp-content/uploads/2018/01/cheese.mp4?_=13" /><a href="{% responsive_image path: wp-content/uploads/2018/01/cheese.mp4">{% responsive_image path: wp-content/uploads/2018/01/cheese.mp4</a></video>
-</div>
+<video width="100%" height="auto" preload="metadata" controls="controls"><source type="video/mp4" src="/wp-content/uploads/2018/01/cheese.mp4">
+</video>
 
 And when the broccoli is pretty much falling apart you add the cheese, which will melt fairly quickly.
 

@@ -69,9 +69,8 @@ I cut the potatoes into 1/8ths because the shortest cook time I found was 8mins 
 
 I loaded it all into the pressure cooker with 1cup of water on the bottom, seal the lid and set the time to 6mins and let it work.
 
-<div style="width: 525px;" class="wp-video">
-  <video class="wp-video-shortcode" id="video-690-8" width="525" height="295" preload="metadata" controls="controls"><source type="video/mp4" src="{% responsive_image path: wp-content/uploads/2017/10/steamclose.mp4?_=8" /><a href="{% responsive_image path: wp-content/uploads/2017/10/steamclose.mp4">{% responsive_image path: wp-content/uploads/2017/10/steamclose.mp4</a></video>
-</div>
+<video width="100%" height="auto" preload="metadata" controls="controls"><source type="video/mp4" src="/wp-content/uploads/2017/10/steamclose.mp4">
+</video>
 
 This is the pressure valve, on the left is the switch between sealed and venting and the little silver thing pops up when the pressure cooker is sealed and increasing pressure.
 
@@ -97,9 +96,8 @@ Saute the garlic until golden brown then add the milk. When it is hot remove fro
 
 When the pressure cooker is done with the cooking time there are two ways to finish, natural pressure release or quick release. Natural pressure release takes longer (15-20mins) and keeps cooking the food, the quick release takes about 2mins or so and that&#8217;s what this recipe called for.
 
-<div style="width: 525px;" class="wp-video">
-  <video class="wp-video-shortcode" id="video-690-9" width="525" height="295" preload="metadata" controls="controls"><source type="video/mp4" src="{% responsive_image path: wp-content/uploads/2017/10/steamrelease.mp4?_=9" /><a href="{% responsive_image path: wp-content/uploads/2017/10/steamrelease.mp4">{% responsive_image path: wp-content/uploads/2017/10/steamrelease.mp4</a></video>
-</div>
+<video width="100%" height="auto" preload="metadata" controls="controls"><source type="video/mp4" src="/wp-content/uploads/2017/10/steamrelease.mp4">
+</video>
 
 As you can see I flip the pressure switch and the steam comes out. I use a towel because the steam is hot. Remember boiling point inside the pressure cooker can reach 250ºF, which means that&#8217;s the temperature of the steam coming out. It smells like a concentrated version of whatever you are cooking and fills my small apartment for hours. Hard boiled eggs don&#8217;t always smell great for hours.
 
