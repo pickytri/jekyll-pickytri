@@ -4,20 +4,13 @@ title: Pasta and Tomato Sauce
 date: 2013-04-22T07:22:00+00:00
 author: matt
 layout: post
-permalink: /index.php/2013/04/22/pasta-and-tomato-sauce/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/04/pasta-and-tomato-sauce.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/7403030225710622159
-image: /wp-content/uploads/2013/04/IMG_3965.jpg
-categories:
-  - recipes
+image: 
+  path: /wp-content/uploads/2013/04/IMG_3983.jpg
+  thumbnail: /wp-content/uploads/2013/04/IMG_3983-300x200.jpg
+categories: food
 tags:
   - pasta
+  - sauce
 ---
 <span style="font-family: Arial, Helvetica, sans-serif;">I eat so much pasta that my&nbsp;cupboard&nbsp;looks like I&#8217;m preparing for the apocalypse. &nbsp;But really I go through a pound or two a week so it only makes sense to keep 20-30lbs around. &nbsp;The most typical pasta meal is with tomato sauce, which I&#8217;ve recently upgraded from the straight up canned sauce thanks to my cooking class. &nbsp;Here are the ingredients:</span>
 

@@ -1,16 +1,15 @@
 ---
 id: 203
-title: '2010 &#8211; Ironman France'
+title: 2010 - Ironman France
 date: 2017-04-10T17:19:59+00:00
 author: matt
 layout: post
-guid: http://192.168.1.2/?p=203
-permalink: /index.php/2017/04/10/2010-ironman-france/
-image: /wp-content/uploads/2017/04/if04.jpg
-categories:
-  - race reports
+image: 
+  path: /wp-content/uploads/2017/04/if04-2000x960.jpg
+  thumbnail: /wp-content/uploads/2017/04/if04-300x102.jpg
+categories: races
 tags:
-  - "2010"
+  - '2010'
   - bike
   - france
   - ironman

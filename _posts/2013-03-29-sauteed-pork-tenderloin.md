@@ -4,19 +4,12 @@ title: Sautéed Pork Tenderloin
 date: 2013-03-29T16:35:00+00:00
 author: matt
 layout: post
-permalink: /index.php/2013/03/29/sauteed-pork-tenderloin/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/03/sauteed-pork-tenderloin.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/1895652509673636462
-image: /wp-content/uploads/2013/03/IMG_3934.jpg
-categories:
-  - recipes
+image: 
+  path: /wp-content/uploads/2013/03/IMG_3943.jpg
+  thumbnail: /wp-content/uploads/2013/03/IMG_3943-300x200.jpg
+categories: food
 tags:
+  - pork tenderloin
   - pork
 ---
 <span style="font-family: Arial, Helvetica, sans-serif;">This is something I learned the first week of the cooking class I took, &#8220;Cooking for the Busy Professional&#8221; at the Arlington County Adult Education center. &nbsp;It was actually a great class with only 4 people in it so we all got to do a bunch of stuff, most of which will probably end up on here. &nbsp;The instructor was great and even had me eating&nbsp;vinaigrette&nbsp;salad (I hate vinegar, and I&#8217;m not too partial to salad that isn&#8217;t covered in ranch and cheese either) and vegetables like cauliflower. In class we did chicken cutlets, but he (the instructor) also gave us some variations to try, like pork tenderloin. &nbsp;He also showed us a pan sauce, but apparently doing that in a cast iron skillet will ruin the layers of seasoning built up (hence my recent purchase of a really expensive sauté pan). &nbsp;Anyway, first get a plate with some flour ready and slice the pork tenderloin (I did about 3/4&#8243;-1&#8243;).</span>

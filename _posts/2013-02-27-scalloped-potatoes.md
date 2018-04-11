@@ -4,18 +4,7 @@ title: Scalloped Potatoes
 date: 2013-02-27T11:19:00+00:00
 author: matt
 layout: post
-guid: http://pickytri.com/index.php/2013/02/27/scalloped-potatoes/
-permalink: /index.php/2013/02/27/scalloped-potatoes/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/02/scalloped-potatoes.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/3071109925094673979
-categories:
-  - recipes
+categories: food
 tags:
   - potato
 ---

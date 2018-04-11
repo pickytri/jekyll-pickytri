@@ -1,12 +1,12 @@
 ---
 id: 7
-title: 'Raspberry Pi Home Server &#8211; Part 1 &#8211; What is it and what can it do?'
+title: 'Raspberry Pi Home Server - Part 1 - What is it and what can it do?'
 date: 2017-03-07T17:51:04+00:00
 author: matt
 layout: post
 image: 
-  path: /wp-content/uploads/2017/03/RaspberryPi3.jpg
-  thumbnail: /wp-content/uploads/2017/03/RaspberryPi3.jpg
+  path: /wp-content/uploads/2017/03/RaspberryPi3-1024x669.jpg
+  thumbnail: /wp-content/uploads/2017/03/RaspberryPi3-300x196.jpg
 categories: tech
 tags: pi pihole
 ---

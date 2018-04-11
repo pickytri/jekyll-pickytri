@@ -1,14 +1,12 @@
 ---
 id: 35
-title: 'Raspberry Pi Home Server &#8211; Part 2 &#8211; OpenVPN and more'
+title: 'Raspberry Pi Home Server - Part 2 - OpenVPN and more'
 date: 2017-03-07T19:23:02+00:00
 author: matt
 layout: post
-guid: http://192.168.1.2/?p=35
-permalink: /index.php/2017/03/07/raspberry-pi-home-server-part-2-openvpn-and-more/
 image: 
   path: /wp-content/uploads/2017/03/VPN.jpg
-  thumbnail: /wp-content/uploads/2017/03/VPN.jpg
+  thumbnail: /wp-content/uploads/2017/03/VPN-300x141.jpg
 categories: tech
 tags: DASH LAMP OpenVPN pi plex syncthing
 ---

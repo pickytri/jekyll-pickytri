@@ -4,24 +4,16 @@ title: Pulled Pork
 date: 2013-06-10T18:20:00+00:00
 author: matt
 layout: post
-permalink: /index.php/2013/06/10/pulled-pork/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/06/pulled-pork.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/2252653447685520030
-image: /wp-content/uploads/2013/06/IMG_4055.jpg
-categories:
-  - recipes
+image: 
+  path: /wp-content/uploads/2013/06/IMG_4082.jpg
+  thumbnail: /wp-content/uploads/2013/06/IMG_4082-300x200.jpg
+categories: food
 tags:
   - bbq
   - pork
   - slow cooker
 ---
-Pulled pork is great. &nbsp;I&#8217;ve wanted to make it for a while, but it is a little daunting when a recipe calls for over 8 hours of cooking, even using the slow cooker. &nbsp;But I planned ahead and started at 8am to let my 4lb pork shoulder cook until it was nice and tender, that was the plan at least.   
+Pulled pork is great. &nbsp;I&#8217;ve wanted to make it for a while, but it is a little daunting when a recipe calls for over 8 hours of cooking, even using the slow cooker. &nbsp;But I planned ahead and started at 8am to let my 4lb pork shoulder cook until it was nice and tender, that was the plan at least. 
 So here is the pork before:
 
 <div style="clear: both; text-align: center;">

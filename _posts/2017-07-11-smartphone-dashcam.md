@@ -4,23 +4,13 @@ title: Using an Old Smartphone as a Dashcam
 date: 2017-07-11T14:59:42+00:00
 author: matt
 layout: post
-guid: http://pickytri.com/?p=629
-permalink: /index.php/2017/07/11/smartphone-dashcam/
-enclosure:
-  - |
-    http://pickytri.com/wp-content/uploads/2017/07/qlo.mp4
-    2901263
-    video/mp4
-    
-  - |
-    http://pickytri.com/wp-content/uploads/2017/07/qhi.mp4
-    11703184
-    video/mp4
-    
-image: /wp-content/uploads/2017/07/vid4.png
-categories:
-  - builds
-  - tech related
+image: 
+  path: /wp-content/uploads/2017/07/vid4.png
+  thumbnail: /wp-content/uploads/2017/07/vid4-300x169.png
+categories: tech
+tags:
+  - smartphone
+  - car
 ---
 I had an old samsung galaxy s4 sitting around and I&#8217;ve always wanted to re-purpose it for something and an upcoming road trip has my mind on driving and I realized it might make a decent dashcam.
 

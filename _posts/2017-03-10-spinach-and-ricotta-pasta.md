@@ -4,10 +4,8 @@ title: Spinach and Ricotta Pasta
 date: 2017-03-10T17:56:49+00:00
 author: matt
 layout: post
-guid: http://192.168.1.2/?p=108
-permalink: /index.php/2017/03/10/spinach-and-ricotta-pasta/
 image: 
-  path: /wp-content/uploads/2017/03/spin_ric10.jpg
+  path: /wp-content/uploads/2017/03/spin_ric10-2000x1200.jpg
   thumbnail: /wp-content/uploads/2017/03/spin_ric10-300x262.jpg
 categories: food
 tags: fettuccine olive oil pasta ricotta spinach

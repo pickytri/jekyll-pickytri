@@ -6,9 +6,9 @@ author: matt
 layout: post
     
 image: 
-  path: /wp-content/uploads/2018/01/20.jpg
+  path: /wp-content/uploads/2018/01/20-2000x1200.jpg
   thumbnail: /wp-content/uploads/2018/01/20-300x225.jpg
-categories: food recipes
+categories: food
 tags: broccoli soup stock vegetable
 ---
 We&#8217;ve had some cold days recently, and soups are great when it&#8217;s cold. They are better warm, and for leftovers that can be a hassle without a microwave, but paired with some fresh bread, they still hit the spot. I also made my own vegetable stock, which will keep in the freezer all winter for when I need it.

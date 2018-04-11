@@ -4,18 +4,10 @@ title: Cedar Plank Salmon
 date: 2013-06-17T14:02:00+00:00
 author: matt
 layout: post
-permalink: /index.php/2013/06/17/cedar-plank-salmon/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/06/cedar-plank-salmon.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/7859745533625997721
-image: /wp-content/uploads/2013/06/IMG_4083.jpg
-categories:
-  - recipes
+image: 
+  path: /wp-content/uploads/2013/06/IMG_4117.jpg
+  thumbnail: /wp-content/uploads/2013/06/IMG_4117-300x200.jpg
+categories: food
 tags:
   - fish
   - grill

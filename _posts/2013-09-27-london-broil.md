@@ -4,19 +4,10 @@ title: London Broil
 date: 2013-09-27T15:18:00+00:00
 author: matt
 layout: post
-permalink: /index.php/2013/09/27/london-broil/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/09/london-broil.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/7148875894457841865
-image: /wp-content/uploads/2013/09/IMG_4214.jpg
-categories:
-  - food
-  - recipes
+image: 
+  path: /wp-content/uploads/2013/09/IMG_4230.jpg
+  thumbnail: /wp-content/uploads/2013/09/IMG_4230-300x200.jpg
+categories: food
 tags:
   - grill
   - steak

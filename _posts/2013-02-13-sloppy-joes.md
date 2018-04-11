@@ -4,18 +4,7 @@ title: Sloppy Joes
 date: 2013-02-13T18:22:00+00:00
 author: matt
 layout: post
-guid: http://pickytri.com/index.php/2013/02/13/sloppy-joes/
-permalink: /index.php/2013/02/13/sloppy-joes/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/02/sloppy-joes.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/2060086341086582717
-categories:
-  - recipes
+categories: food
 tags:
   - beef
 ---

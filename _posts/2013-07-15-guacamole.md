@@ -4,19 +4,10 @@ title: Guacamole
 date: 2013-07-15T07:53:00+00:00
 author: matt
 layout: post
-permalink: /index.php/2013/07/15/guacamole/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/07/guacamole.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/7649397390063036995
-image: /wp-content/uploads/2013/07/IMG_4120.jpg
-categories:
-  - food
-  - recipes
+image: 
+  path: /wp-content/uploads/2013/07/IMG_4141.jpg
+  thumbnail: /wp-content/uploads/2013/07/IMG_4141-300x200.jpg
+categories: food
 tags:
   - avocado
   - dip

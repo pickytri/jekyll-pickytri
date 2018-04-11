@@ -4,19 +4,10 @@ title: Apple Cinnamon Pancakes
 date: 2014-02-22T07:25:00+00:00
 author: matt
 layout: post
-permalink: /index.php/2014/02/22/apple-cinnamon-pancakes/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2014/02/apple-cinnamon-pancakes.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/5561769607013074234
-image: /wp-content/uploads/2014/02/IMG_4284.jpg
-categories:
-  - food
-  - recipes
+image: 
+  path: /wp-content/uploads/2014/02/IMG_4296.jpg
+  thumbnail: /wp-content/uploads/2014/02/IMG_4296-300x200.jpg
+categories: food
 tags:
   - breakfast
   - cinnamon

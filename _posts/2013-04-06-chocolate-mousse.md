@@ -4,18 +4,10 @@ title: Chocolate Mousse
 date: 2013-04-06T12:02:00+00:00
 author: matt
 layout: post
-permalink: /index.php/2013/04/06/chocolate-mousse/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/04/chocolate-mousse.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/3212330501417694315
-image: /wp-content/uploads/2013/04/IMG_3944.jpg
-categories:
-  - recipes
+image: 
+  path: /wp-content/uploads/2013/04/IMG_3957.jpg
+  thumbnail: /wp-content/uploads/2013/04/IMG_3957-300x200.jpg
+categories: food
 tags:
   - chocolate
   - dessert

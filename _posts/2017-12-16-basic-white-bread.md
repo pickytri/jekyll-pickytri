@@ -1,26 +1,13 @@
 ---
 id: 698
 title: Basic White Bread
-date: 2017-12-16T10:34:08+00:00
+date: 2017-12-16 T 10:34:08+00:00
 author: matt
 layout: post
-guid: http://pickytri.com/?p=698
-permalink: /index.php/2017/12/16/basic-white-bread/
-enclosure:
-  - |
-    http://pickytri.com/wp-content/uploads/2017/12/machine_knead.mp4
-    25838746
-    video/mp4
-    
-  - |
-    http://pickytri.com/wp-content/uploads/2017/12/knead.mp4
-    48359611
-    video/mp4
-    
-image: /wp-content/uploads/2017/12/21.jpg
-categories:
-  - food
-  - recipes
+image: 
+  path: /wp-content/uploads/2017/12/21.jpg
+  thumbnail: /wp-content/uploads/2017/12/21-300x288.jpg
+categories: food
 tags:
   - bread
   - flour

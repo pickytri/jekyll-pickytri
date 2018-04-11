@@ -4,18 +4,10 @@ title: Scrambled Eggs
 date: 2013-05-28T08:03:00+00:00
 author: matt
 layout: post
-permalink: /index.php/2013/05/28/scrambled-eggs/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/05/scrambled-eggs.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/3402518097640974808
-image: /wp-content/uploads/2013/05/IMG_4019.jpg
-categories:
-  - recipes
+image: 
+  path: /wp-content/uploads/2013/05/IMG_4029.jpg
+  thumbnail: /wp-content/uploads/2013/05/IMG_4029-300x200.jpg
+categories: food
 tags:
   - breakfast
   - eggs

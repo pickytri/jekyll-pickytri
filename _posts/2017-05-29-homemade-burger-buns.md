@@ -4,22 +4,10 @@ title: Homemade Burger Buns
 date: 2017-05-29T15:24:21+00:00
 author: matt
 layout: post
-guid: http://pickytri.com/?p=529
-permalink: /index.php/2017/05/29/homemade-burger-buns/
-enclosure:
-  - |
-    http://pickytri.com/wp-content/uploads/2017/05/mix1.mp4
-    25293485
-    video/mp4
-    
-  - |
-    http://pickytri.com/wp-content/uploads/2017/05/mix3.mp4
-    29867657
-    video/mp4
-    
-image: /wp-content/uploads/2017/05/cut2.jpg
-categories:
-  - recipes
+image: 
+  path: /wp-content/uploads/2017/05/cut2-2000x1200.jpg
+  thumbnail: /wp-content/uploads/2017/05/cut2-300x232.jpg
+categories: food
 tags:
   - bread
   - buns

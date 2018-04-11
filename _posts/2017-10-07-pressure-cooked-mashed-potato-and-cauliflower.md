@@ -4,22 +4,10 @@ title: Pressure Cooked Mashed Potato and Cauliflower
 date: 2017-10-07T11:22:45+00:00
 author: matt
 layout: post
-guid: http://pickytri.com/?p=690
-permalink: /index.php/2017/10/07/pressure-cooked-mashed-potato-and-cauliflower/
-enclosure:
-  - |
-    http://pickytri.com/wp-content/uploads/2017/10/steamclose.mp4
-    14831461
-    video/mp4
-    
-  - |
-    http://pickytri.com/wp-content/uploads/2017/10/steamrelease.mp4
-    14869175
-    video/mp4
-    
-image: /wp-content/uploads/2017/10/19.jpg
-categories:
-  - recipes
+image: 
+  path: /wp-content/uploads/2017/10/19-2000x1200.jpg
+  thumbnail: /wp-content/uploads/2017/10/19-300x225.jpg
+categories: food
 tags: 
   - cauliflower 
   - instapot 

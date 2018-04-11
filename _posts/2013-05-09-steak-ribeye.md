@@ -1,21 +1,13 @@
 ---
 id: 370
-title: 'Steak &#8211; Ribeye'
+title: 'Steak - Ribeye'
 date: 2013-05-09T22:00:00+00:00
 author: matt
 layout: post
-permalink: /index.php/2013/05/09/steak-ribeye/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/05/steak-ribeye.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/9062934402525572759
-image: /wp-content/uploads/2013/05/IMG_4001.jpg
-categories:
-  - recipes
+image: 
+  path: /wp-content/uploads/2013/05/IMG_4010.jpg
+  thumbnail: /wp-content/uploads/2013/05/IMG_4010-300x200.jpg
+categories: food
 tags:
   - steak
 ---

@@ -4,18 +4,10 @@ title: Green beans and Almonds
 date: 2013-03-29T16:07:00+00:00
 author: matt
 layout: post
-permalink: /index.php/2013/03/29/green-beans-and-almonds/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/03/green-beans-and-almonds.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/3602790919592288512
-image: /wp-content/uploads/2013/03/IMG_3925.jpg
-categories:
-  - recipes
+image: 
+  path: /wp-content/uploads/2013/03/IMG_3932.jpg
+  thumbnail: /wp-content/uploads/2013/03/IMG_3932-300x200.jpg
+categories: food
 tags:
   - green beans
   - vegetable

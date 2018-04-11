@@ -4,18 +4,7 @@ title: Pancakes w/bacon
 date: 2013-03-02T21:05:00+00:00
 author: matt
 layout: post
-guid: http://pickytri.com/index.php/2013/03/02/pancakes-wbacon/
-permalink: /index.php/2013/03/02/pancakes-wbacon/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/03/pancakes-wbacon.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/6089694113210514861
-categories:
-  - recipes
+categories: food
 tags:
   - breakfast
   - pancakes

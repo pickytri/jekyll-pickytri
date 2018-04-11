@@ -1,15 +1,13 @@
 ---
 id: 569
-title: 'Pikes Peak Ascent Attempt &#8211; Part 3: The Climb'
+title: 'Pikes Peak Ascent Attempt - Part 3: The Climb'
 date: 2017-06-19T16:21:53+00:00
 author: matt
 layout: post
-guid: http://pickytri.com/?p=569
-permalink: /index.php/2017/06/19/pikes-peak-ascent-attempt-part-3-the-climb/
-image: /wp-content/uploads/2017/06/pikes_far.jpg
-categories:
-  - fitness related
-  - race reports
+image: 
+  path: /wp-content/uploads/2017/06/pikes_far-2000x1200.jpg
+  thumbnail: /wp-content/uploads/2017/06/pikes_far-300x210.jpg
+categories: races
 tags:
   - colorado
   - elevation
@@ -20,11 +18,9 @@ tags:
 ---
 I made it up! Running up Barr Trail was definitely an amazing experience, and something I want to do again, and wanted to repeat before I even finished it the first time. The quick stats:
   
-Total time: 4:26:28
-  
-Distance: 11.32 miles (avg 23:31/mile)
-  
-Elevation gain: 7382ft
+* Total time: 4:26:28
+* Distance: 11.32 miles (avg 23:31/mile)
+* Elevation gain: 7382ft
   
 <!--more-->
 

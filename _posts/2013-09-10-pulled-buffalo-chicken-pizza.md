@@ -4,19 +4,10 @@ title: Pulled Buffalo Chicken Pizza
 date: 2013-09-10T19:52:00+00:00
 author: matt
 layout: post
-permalink: /index.php/2013/09/10/pulled-buffalo-chicken-pizza/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/09/pulled-buffalo-chicken-pizza.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/8163602118602697325
-image: /wp-content/uploads/2013/09/IMG_4187.jpg
-categories:
-  - food
-  - recipes
+image: 
+  path: /wp-content/uploads/2013/09/IMG_4203.jpg
+  thumbnail: /wp-content/uploads/2013/09/IMG_4203-300x200.jpg
+categories: food
 tags:
   - chicken
   - pizza

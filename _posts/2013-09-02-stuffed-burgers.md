@@ -4,19 +4,10 @@ title: Stuffed Burgers
 date: 2013-09-02T22:27:00+00:00
 author: matt
 layout: post
-permalink: /index.php/2013/09/02/stuffed-burgers/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/09/stuffed-burgers.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/4320306109191482293
-image: /wp-content/uploads/2013/09/IMG_4179.jpg
-categories:
-  - food
-  - recipes
+image: 
+  path: /wp-content/uploads/2013/09/IMAG0224.jpg
+  thumbnail: /wp-content/uploads/2013/09/IMAG0224-300x179.jpg
+categories: food
 tags:
   - burgers
   - cheese

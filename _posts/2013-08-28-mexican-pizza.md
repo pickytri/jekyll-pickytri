@@ -4,19 +4,10 @@ title: Mexican Pizza
 date: 2013-08-28T22:41:00+00:00
 author: matt
 layout: post
-permalink: /index.php/2013/08/28/mexican-pizza/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/08/mexican-pizza.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/4508488390927915394
-image: /wp-content/uploads/2013/08/IMG_4149.jpg
-categories:
-  - food
-  - recipes
+image: 
+  path: /wp-content/uploads/2013/08/IMG_4169.jpg
+  thumbnail: /wp-content/uploads/2013/08/IMG_4169-300x200.jpg
+categories: food
 tags:
   - beef
   - guacamole

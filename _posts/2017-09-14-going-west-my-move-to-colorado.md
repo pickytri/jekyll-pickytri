@@ -1,14 +1,14 @@
 ---
 id: 646
-title: 'Going West &#8211; My Move to Colorado'
-date: 2017-09-14T10:55:44+00:00
+title: 'Going West - My Move to Colorado'
+date: 2017-09-14 T 10:55:44+00:00
 author: matt
 layout: post
-guid: http://pickytri.com/?p=646
-permalink: /index.php/2017/09/14/going-west-my-move-to-colorado/
-image: /wp-content/uploads/2017/09/rearview.jpg
+image: 
+  path: /wp-content/uploads/2017/09/rearview-2000x1200.jpg
+  thumbnail: /wp-content/uploads/2017/09/rearview-300x225.jpg
 categories:
-  - misc.
+  - misc
 tags:
   - apartment
   - drive

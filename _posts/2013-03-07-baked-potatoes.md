@@ -4,18 +4,7 @@ title: Baked Potatoes
 date: 2013-03-07T17:50:00+00:00
 author: matt
 layout: post
-guid: http://pickytri.com/index.php/2013/03/07/baked-potatoes/
-permalink: /index.php/2013/03/07/baked-potatoes/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/03/baked-potatoes.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/2059584127575838660
-categories:
-  - recipes
+categories: food
 tags:
   - potato
 ---

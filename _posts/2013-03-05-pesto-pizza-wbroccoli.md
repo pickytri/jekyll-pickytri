@@ -4,18 +4,7 @@ title: Pesto Pizza w/Broccoli
 date: 2013-03-05T20:12:00+00:00
 author: matt
 layout: post
-guid: http://pickytri.com/index.php/2013/03/05/pesto-pizza-wbroccoli/
-permalink: /index.php/2013/03/05/pesto-pizza-wbroccoli/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/03/pesto-pizza-wbroccoli.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/3379486741122080339
-categories:
-  - recipes
+categories: food
 tags:
   - pesto
   - pizza

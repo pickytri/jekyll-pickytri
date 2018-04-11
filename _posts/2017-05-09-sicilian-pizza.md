@@ -4,31 +4,15 @@ title: Sicilian Pizza
 date: 2017-05-09T08:29:50+00:00
 author: matt
 layout: post
-guid: http://192.168.1.2/?p=262
-permalink: /index.php/2017/05/09/sicilian-pizza/
-enclosure:
-  - |
-    http://pickytri.com/wp-content/uploads/2017/05/mixer1.mp4
-    12083352
-    video/mp4
-    
-  - |
-    http://pickytri.com/wp-content/uploads/2017/05/mixer2.mp4
-    20594150
-    video/mp4
-    
-  - |
-    http://pickytri.com/wp-content/uploads/2017/05/sauce.mp4
-    12122376
-    video/mp4
-    
-image: /wp-content/uploads/2017/05/p0.jpg
-categories:
-  - food
-  - recipes
+image: 
+  path: /wp-content/uploads/2017/05/p0-2000x1200.jpg
+  thumbnail: /wp-content/uploads/2017/05/p0-300x186.jpg
+categories: food
 tags:
   - mozarella
   - pizza
+  - seriouseats
+  - sicilian
 ---
 Pizza is always a good meal, and homemade pizza isn&#8217;t too hard to make (dough and all) and much tastier than any frozen pizza or chain. I was never a huge fan of Sicilian pizza because the tomato sauce was too chunky &#8211; but when you make your own sauce you can make it as smooth as you want.<!--more-->
 

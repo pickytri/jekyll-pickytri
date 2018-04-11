@@ -4,20 +4,13 @@ title: Mashed Potatoes
 date: 2013-05-04T12:14:00+00:00
 author: matt
 layout: post
-permalink: /index.php/2013/05/04/mashed-potatoes/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/05/mashed-potatoes.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/7840693436888189065
-image: /wp-content/uploads/2013/05/IMG_3987.jpg
-categories:
-  - recipes
+image: 
+  path: /wp-content/uploads/2013/05/IMG_3999.jpg
+  thumbnail: /wp-content/uploads/2013/05/IMG_3999-300x200.jpg
+categories: food
 tags:
   - potato
+  - mashed
 ---
 <span style="font-family: Arial, Helvetica, sans-serif;">While my stand mixer gets regular use with other things, I think I&#8217;ve used it the most to make mashed potatoes. &nbsp;Mashed potatoes are a great side dish for many people, but I make a meal around or out of just the potatoes. &nbsp;For this dinner I had just a large bowl of them, and it was delicious. &nbsp;Anyway, start with potatoes, wash them, and slice them into about 1.5 inch cubes.</span>
 

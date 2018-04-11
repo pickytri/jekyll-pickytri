@@ -4,19 +4,10 @@ title: Macaroni and Cheese
 date: 2013-11-04T15:23:00+00:00
 author: matt
 layout: post
-permalink: /index.php/2013/11/04/macaroni-and-cheese/
-blogger_blog:
-  - pickytri.blogspot.com
-blogger_author:
-  - matt
-blogger_permalink:
-  - /2013/11/macaroni-and-cheese.html
-blogger_internal:
-  - /feeds/2087029004506007902/posts/default/1761643927229801844
-image: /wp-content/uploads/2013/11/IMG_4231.jpg
-categories:
-  - food
-  - recipes
+image: 
+  path: /wp-content/uploads/2013/11/IMG_4248.jpg
+  thumbnail: /wp-content/uploads/2013/11/IMG_4248-300x200.jpg
+categories: food
 tags:
   - baked
   - cheddar

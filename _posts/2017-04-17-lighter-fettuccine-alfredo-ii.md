@@ -4,11 +4,10 @@ title: Lighter Fettuccine Alfredo II
 date: 2017-04-17T14:50:27+00:00
 author: matt
 layout: post
-guid: http://192.168.1.2/?p=229
-permalink: /index.php/2017/04/17/lighter-fettuccine-alfredo-ii/
-image: /wp-content/uploads/2017/04/fa09.jpg
-categories:
-  - recipes
+image: 
+  path: /wp-content/uploads/2017/04/fa09-2000x1200.jpg
+  thumbnail: /wp-content/uploads/2017/04/fa09-300x239.jpg
+categories: food
 tags:
   - alfredo
   - fettuccine
