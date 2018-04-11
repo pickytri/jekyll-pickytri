@@ -8,9 +8,11 @@ v 0.2 - updated header/image paths for old posts, created category template
 
 v 0.3 - updated body of WP posts, some more theme fine tuning
 
+v 0.3.1 - fixed video embeds
+
 Upcoming:
  * fix old WP/blogger posts
-   * update WP video embeds in WP posts
+   ~~* update WP video embeds in WP posts~~
    * update image links in blogger posts
  * move hero images and add to resize in _config.yml
  * document process on internal dokuwiki
