@@ -4,27 +4,28 @@ title: Scalloped Potatoes
 date: 2013-02-27T11:19:00+00:00
 author: matt
 layout: post
+image:
+  path: 
 categories: food
 tags:
   - potato
 ---
-<span style="font-family: Arial,Helvetica,sans-serif;">So I love potatoes and while I&#8217;ve got baking and mashing them down, I wanted to give scalloped a try. &nbsp;I found a pretty simple recipe that just called for milk, flour salt and cheese so I tried it out. &nbsp;First step was chopping potatoes&#8230;</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">So I love potatoes and while I&#8217;ve got baking and mashing them down, I wanted to give scalloped a try. &nbsp;I found a pretty simple recipe that just called for milk, flour salt and cheese so I tried it out. &nbsp;First step was chopping potatoes&#8230;
 
-<div style="clear: both; text-align: center;">
-  <span style="font-family: Arial,Helvetica,sans-serif;"><a href="http://3.bp.blogspot.com/-AbMFoonmBYg/US4wqF-tSKI/AAAAAAAAAhc/iEXZhHDtRsQ/s1600/IMAG0082.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="380" src="http://3.bp.blogspot.com/-AbMFoonmBYg/US4wqF-tSKI/AAAAAAAAAhc/iEXZhHDtRsQ/s640/IMAG0082.jpg" width="640" /></a></span>
-</div>
 
-<span style="font-family: Arial,Helvetica,sans-serif;">So many potatoes. &nbsp;As you can see I didn&#8217;t slice them all thinly enough, which led to some irregular cooking (in my defense it takes forever to slice 6 potatoes). &nbsp;Next you put them in the dish:</span>
+{% responsive_image path: blogger/IMAG0082.jpg %}
 
-<div style="clear: both; text-align: center;">
-  <span style="font-family: Arial,Helvetica,sans-serif;"><a href="http://4.bp.blogspot.com/-3kuqg2ZuICM/US4w_f2uVqI/AAAAAAAAAhk/HlC7ncLs5dc/s1600/IMAG0084.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="380" src="http://4.bp.blogspot.com/-3kuqg2ZuICM/US4w_f2uVqI/AAAAAAAAAhk/HlC7ncLs5dc/s640/IMAG0084.jpg" width="640" /></a></span>
-</div>
 
-<span style="font-family: Arial,Helvetica,sans-serif;">Finally, top with cheese and serve</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">So many potatoes. &nbsp;As you can see I didn&#8217;t slice them all thinly enough, which led to some irregular cooking (in my defense it takes forever to slice 6 potatoes). &nbsp;Next you put them in the dish:
 
-<div style="clear: both; text-align: center;">
-  <span style="font-family: Arial,Helvetica,sans-serif;"><a href="http://3.bp.blogspot.com/-TiGSNvuAm5I/US4xKWUfV_I/AAAAAAAAAhs/QDK9Qq8cCiM/s1600/IMAG0086.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="380" src="http://3.bp.blogspot.com/-TiGSNvuAm5I/US4xKWUfV_I/AAAAAAAAAhs/QDK9Qq8cCiM/s640/IMAG0086.jpg" width="640" /></a></span>
-</div>
+
+{% responsive_image path: blogger/IMAG0084.jpg %}
+
+
+<span style="font-family: Arial,Helvetica,sans-serif;">Finally, top with cheese and serve
+
+
+{% responsive_image path: blogger/IMAG0086.jpg %}
 
 <span style="font-family: Arial,Helvetica,sans-serif;">I have to say these didn&#8217;t come out too good. &nbsp; Partly because of the thickly sliced potatoes and partly because I&#8217;m not sure the recipe is good. &nbsp;It called for 2 cups of milk in the potatoes, the milk didn&#8217;t really get absorbed or evaporated or anything so that was weird. &nbsp;Definitely&nbsp;need to find a new recipe for these.</span>  
 <span style="font-family: Arial,Helvetica,sans-serif;"><br /></span><span style="font-family: Arial,Helvetica,sans-serif;">Recipe (from&nbsp;<a href="http://southernfood.about.com/od/scallopedpotatoes/r/bl30129v.htm">http://southernfood.about.com/od/scallopedpotatoes/r/bl30129v.htm</a>&nbsp;):</span>  

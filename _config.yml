@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: pickytri
-email: your-email@example.com
+#email: your-email@example.com
 port: 4554
 description: >- # this means to ignore newlines until "baseurl:"
   a place for me to post food I like, computers I build, races I race, pictures I take and anything else.
@@ -97,7 +97,7 @@ responsive_image:
   # tags are resized. Here you can set a list of paths or path globs to resize other
   # images. This is useful for resizing images which will be referenced from stylesheets.
   extra_images:
-    - assets/foo/bar.png
+    - blogger/IMG_4248.jpg
     - assets/bgs/*.png
     - assets/avatars/*.{jpeg,jpg}
 

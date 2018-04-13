@@ -5,8 +5,8 @@ date: 2013-11-04T15:23:00+00:00
 author: matt
 layout: post
 image: 
-  path: /wp-content/uploads/2013/11/IMG_4248.jpg
-  thumbnail: /wp-content/uploads/2013/11/IMG_4248-300x200.jpg
+  path: /blogger/IMG_4248.jpg
+  thumbnail: /assets/resized/480/blogger/IMG_4248.jpg
 categories: food
 tags:
   - baked
@@ -14,35 +14,35 @@ tags:
   - mac and cheese
   - pasta
 ---
-<span style="font-family: Arial, Helvetica, sans-serif;">So October was a pretty busy month for me, quite a few races and gone pretty much every weekend so I was strapped for time and didn&#8217;t really have the time for experimenting in the kitchen.  I&#8217;m back home after some successful races and I found a Mac and Cheese recipe with cottage cheese as one of the ingredients &#8211; I&#8217;m a big fan of cottage cheese so I had to try it out.  I was in a bit of a rush to get to the store and mistook sour cream for cream cheese and didn&#8217;t realize until the mac and cheese was in the oven&#8230;  Anyway, here are the ingredients I used:</span>
+<span style="font-family: Arial, Helvetica, sans-serif;">So October was a pretty busy month for me, quite a few races and gone pretty much every weekend so I was strapped for time and didn&#8217;t really have the time for experimenting in the kitchen.  I&#8217;m back home after some successful races and I found a Mac and Cheese recipe with cottage cheese as one of the ingredients &#8211; I&#8217;m a big fan of cottage cheese so I had to try it out.  I was in a bit of a rush to get to the store and mistook sour cream for cream cheese and didn&#8217;t realize until the mac and cheese was in the oven&#8230;  Anyway, here are the ingredients I used:
 
-<div style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-x-QMe1YfMsk/Unf2Zmb9o9I/AAAAAAAABIQ/ED3dpc7jTmw/s1600/IMG_4231.JPG"><span style="font-family: Arial, Helvetica, sans-serif;"><img src="http://pickytri.com/wp-content/uploads/2013/11/IMG_4231-300x200.jpg" width="640" height="425" border="0" /></span></a>
-</div>
 
-<span style="font-family: Arial, Helvetica, sans-serif;">The cream cheese is hiding behind the cheddar cheese from Giant and the parmesan cheese from Whole Foods.  Guess which one of those blocks cost twice as much as the other?  Not complaining, the parmesand was amazing.  After assembling everything, I measured out how much I needed:<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://pickytri.com/wp-content/uploads/2013/11/IMG_4233.jpg"><img src="http://pickytri.com/wp-content/uploads/2013/11/IMG_4233-300x200.jpg" width="640" height="422" border="0" /></a></span>
+{% responsive_image path: blogger/IMG_4231.jpg %}
 
-<div style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-e0RzaSZbQUQ/Unf4QheWoxI/AAAAAAAABIo/zmkFZZL5vgQ/s1600/IMG_4238.JPG"><span style="font-family: Arial, Helvetica, sans-serif;"><img src="http://pickytri.com/wp-content/uploads/2013/11/IMG_4238-300x200.jpg" width="640" height="426" border="0" /></span></a>
-</div>
 
-<span style="font-family: Arial, Helvetica, sans-serif;">Then you spread the cottage cheese and cream cheese and add the shredded cheese to your baking dish while cooking the pasta.</span>
+{% responsive_image path: blogger/IMG_4233.jpg %}
 
-<div style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-pXq95fv7wA0/Unf4pwWDP6I/AAAAAAAABIw/E46LNb4TM10/s1600/IMG_4241.JPG"><span style="font-family: Arial, Helvetica, sans-serif;"><img src="http://pickytri.com/wp-content/uploads/2013/11/IMG_4241-300x200.jpg" width="640" height="426" border="0" /></span></a>
-</div>
 
-<span style="font-family: Arial, Helvetica, sans-serif;">I thought something might have been off at this point because the cream cheese was pretty hard to get a good mix going with the other cheeses.  It also looked a little weird, but instead of checking the recipe again, I just applied a little more elbow grease and eventually it sort of mixed correctly.  Adding the slightly under cooked pasta helped a bit since it was warm and softened the cream cheese a bit.  After it is mostly uniform, top with breadcrumbs:</span>
+{% responsive_image path: blogger/IMG_4238.jpg %}
 
-<div style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-g582jokJLnk/Unf5oafRS5I/AAAAAAAABI4/HMLRvC9jDNc/s1600/IMG_4243.JPG"><span style="font-family: Arial, Helvetica, sans-serif;"><img src="http://pickytri.com/wp-content/uploads/2013/11/IMG_4243-300x200.jpg" width="640" height="426" border="0" /></span></a>
-</div>
 
-<span style="font-family: Arial, Helvetica, sans-serif;"> Into the oven and its all done when the top is golden brown:</span>
+<span style="font-family: Arial, Helvetica, sans-serif;">Then you spread the cottage cheese and cream cheese and add the shredded cheese to your baking dish while cooking the pasta.
 
-<div style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="http://pickytri.com/wp-content/uploads/2013/11/IMG_4248.jpg"><img src="http://pickytri.com/wp-content/uploads/2013/11/IMG_4248-300x200.jpg" width="640" height="426" border="0" /></a>
-</div>
+
+{% responsive_image path: blogger/IMG_4241.jpg %}
+
+
+<span style="font-family: Arial, Helvetica, sans-serif;">I thought something might have been off at this point because the cream cheese was pretty hard to get a good mix going with the other cheeses.  It also looked a little weird, but instead of checking the recipe again, I just applied a little more elbow grease and eventually it sort of mixed correctly.  Adding the slightly under cooked pasta helped a bit since it was warm and softened the cream cheese a bit.  After it is mostly uniform, top with breadcrumbs:
+
+
+{% responsive_image path: blogger/IMG_4243.jpg %}
+
+
+<span style="font-family: Arial, Helvetica, sans-serif;"> Into the oven and its all done when the top is golden brown:
+
+
+{% responsive_image path: blogger/IMG_4248.jpg %}
+
 
 <span style="font-family: Arial, Helvetica, sans-serif;">Looks pretty appetizing right?  It actually was pretty good despite the cream cheese.  A bit thick, and not as creamy as I would have liked but with all that other cheese it&#8217;s hard to go wrong.  I&#8217;d like to try this recipe again with the sour cream because I really feel like it would be creamy and amazing.  As it turns out this wasn&#8217;t bad per say but I won&#8217;t be using cream cheese as a substitute for sour cream again.</span>
   

@@ -10,11 +10,13 @@ v 0.3 - updated body of WP posts, some more theme fine tuning
 
 v 0.3.1 - fixed video embeds
 
+v 0.4 - updated old blogger posts
+
 Upcoming:
- * fix old WP/blogger posts
-   ~~* update WP video embeds in WP posts~~
-   * update image links in blogger posts
- * move hero images and add to resize in _config.yml
+ * ~~fix old WP/blogger posts~~
+   * ~~update WP video embeds in WP posts~~
+   * ~~update image links in blogger posts~~
+ * move/create hero images and add to resize in _config.yml
  * document process on internal dokuwiki
  * finalize image-resize sizes
  * make new post about jekyll migration

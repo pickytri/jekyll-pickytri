@@ -5,53 +5,44 @@ date: 2013-03-29T16:07:00+00:00
 author: matt
 layout: post
 image: 
-  path: /wp-content/uploads/2013/03/IMG_3932.jpg
-  thumbnail: /wp-content/uploads/2013/03/IMG_3932-300x200.jpg
+  path: /blogger/IMG_3932.jpg
+  thumbnail: /blogger/IMG_3932-300x200.jpg
 categories: food
 tags:
   - green beans
   - vegetable
 ---
-<span style="font-family: Arial, Helvetica, sans-serif;">After seeing a commercial on the food network for pre made and frozen green beans and almond slivers, I decided I could probably make it and eat it&#8230; as long as it was covered in butter. &nbsp;So I chopped up some almonds (way too many) in my food processor, which didn&#8217;t really sliver them, I had varying sizes from dust to whole almonds, but it worked out ok.&nbsp;</span>
+<span style="font-family: Arial, Helvetica, sans-serif;">After seeing a commercial on the food network for pre made and frozen green beans and almond slivers, I decided I could probably make it and eat it&#8230; as long as it was covered in butter. &nbsp;So I chopped up some almonds (way too many) in my food processor, which didn&#8217;t really sliver them, I had varying sizes from dust to whole almonds, but it worked out ok.&nbsp;
 
-<div style="clear: both; text-align: center;">
-  <a href="http://2.bp.blogspot.com/-yQh7_nEc9QU/UVX_bvu3qtI/AAAAAAAAAko/dczz1fLkqwA/s1600/IMG_3925.JPG" style="margin-left: 1em; margin-right: 1em;"><span style="font-family: Arial, Helvetica, sans-serif;"><img border="0" height="426" src="http://pickytri.com/wp-content/uploads/2013/03/IMG_3925-300x200.jpg" width="640" /></span></a>
-</div>
 
-<div>
-  <span style="font-family: Arial, Helvetica, sans-serif;">After realizing I had to pick the ends off the green beans, I put the almonds aside and picked the green beans in front of the tv for what felt like forever. &nbsp;Also, I don&#8217;t think green beans are in season because these didn&#8217;t look too great. &nbsp;Anyway, boil those for about 2mins, maybe. &nbsp;I like them still crunchy, and not at all mushy.</span>
-</div>
+{% responsive_image path: blogger/IMG_3925.jpg %}
 
-<div style="clear: both; text-align: center;">
-  <a href="http://3.bp.blogspot.com/-pOXsBiBiH28/UVYAVO80J-I/AAAAAAAAAkw/lEvNTytEjRQ/s1600/IMG_3929.JPG" style="margin-left: 1em; margin-right: 1em;"><span style="font-family: Arial, Helvetica, sans-serif;"><img border="0" height="426" src="http://pickytri.com/wp-content/uploads/2013/03/IMG_3929-300x200.jpg" width="640" /></span></a>
-</div>
 
-<div>
-  <span style="font-family: Arial, Helvetica, sans-serif;">After they&#8217;re done, mix butter, garlic, the almonds and the green beans together. &nbsp;First I tried this in a large mixing bowl, but that didn&#8217;t work at all. &nbsp;So into a tupperware they went and then they got all mixed up pretty well.</span>
-</div>
 
-<div style="clear: both; text-align: center;">
-  <a href="http://4.bp.blogspot.com/-qqFXKABpAgs/UVYA2nnCoKI/AAAAAAAAAk4/0OjQ_w-8SF0/s1600/IMG_3932.JPG" style="margin-left: 1em; margin-right: 1em;"><span style="font-family: Arial, Helvetica, sans-serif;"><img border="0" height="426" src="http://pickytri.com/wp-content/uploads/2013/03/IMG_3932-300x200.jpg" width="640" /></span></a>
-</div>
+  <span style="font-family: Arial, Helvetica, sans-serif;">After realizing I had to pick the ends off the green beans, I put the almonds aside and picked the green beans in front of the tv for what felt like forever. &nbsp;Also, I don&#8217;t think green beans are in season because these didn&#8217;t look too great. &nbsp;Anyway, boil those for about 2mins, maybe. &nbsp;I like them still crunchy, and not at all mushy.
 
-<div>
-  <span style="font-family: Arial, Helvetica, sans-serif;">And just so you know, I didn&#8217;t only eat a pound of green beans for dinner (that might fly for pasta, but a vegetable? No way, not even one covered in butter). &nbsp;I also made some pork, which I will probably write up in just a couple minutes.</span>
-</div>
 
-<div style="clear: both; text-align: center;">
-  <a href="http://4.bp.blogspot.com/-57dvfBq-dek/UVYCJOgX0uI/AAAAAAAAAlA/F8w2cVGLFAg/s1600/IMG_3942.JPG" style="margin-left: 1em; margin-right: 1em;"><span style="font-family: Arial, Helvetica, sans-serif;"><img border="0" height="426" src="http://pickytri.com/wp-content/uploads/2013/03/IMG_3942-300x200.jpg" width="640" /></span></a>
-</div>
 
-<div>
-  <span style="font-family: Arial, Helvetica, sans-serif;"><br /></span>
-</div>
+{% responsive_image path: blogger/IMG_3929.jpg %}
 
-<div>
-  <span style="font-family: Arial, Helvetica, sans-serif;"><br /></span>
-</div>
 
-<div>
-  <span style="font-family: Arial, Helvetica, sans-serif;"><br /></span>
+
+  <span style="font-family: Arial, Helvetica, sans-serif;">After they&#8217;re done, mix butter, garlic, the almonds and the green beans together. &nbsp;First I tried this in a large mixing bowl, but that didn&#8217;t work at all. &nbsp;So into a tupperware they went and then they got all mixed up pretty well.
+
+
+
+{% responsive_image path: blogger/IMG_3932.jpg %}
+
+
+
+  <span style="font-family: Arial, Helvetica, sans-serif;">And just so you know, I didn&#8217;t only eat a pound of green beans for dinner (that might fly for pasta, but a vegetable? No way, not even one covered in butter). &nbsp;I also made some pork, which I will probably write up in just a couple minutes.
+
+
+
+{% responsive_image path: blogger/IMG_3942.jpg %}
+
+
+<span style="font-family: Arial, Helvetica, sans-serif;"><br /></span>
 </div>
 
 <div>

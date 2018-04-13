@@ -4,26 +4,27 @@ title: Sloppy Joes
 date: 2013-02-13T18:22:00+00:00
 author: matt
 layout: post
+image: 
+  path: /blogger/2013.02.07.jpg
+  thumbnail: /blogger/2013.02.07.jpg
 categories: food
 tags:
   - beef
 ---
 So this is the first post and for some info, I&#8217;m a triathlete and I train a bunch so I get to eat a bunch to make up for it. &nbsp;This is my blog for my own purposes to keep track of my what meals I&#8217;ve made and how they came out so I can help myself plan for future meals.
 
-For the first meal on here, I made sloppy joes. &nbsp;Good for protein I suppose and a great reminder of summer and childhood, I&#8217;ve always liked sloppy joes even if they had onions &#8211; which I am slowly learning to like. &nbsp;I got the base recipe from [allrecipes.com](http://allrecipes.com/recipe/sloppy-joes-ii/)&nbsp;but changed it a little, substituting the 1/4 cup green pepper for more onions and leaving out the mustard because even smelling mustard is a challenge for me.
 
-<div style="clear: both; text-align: center;">
-  <a href="http://4.bp.blogspot.com/-rFiR7DClVk8/URwc2LKNNCI/AAAAAAAAAfQ/JGq3pDL22P4/s1600/2013.02.07.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="" border="0" height="380" src="http://4.bp.blogspot.com/-rFiR7DClVk8/URwc2LKNNCI/AAAAAAAAAfQ/JGq3pDL22P4/s640/2013.02.07.jpg" title="sloppy joes" width="640" /></a>
-</div>
+{% responsive_image path: blogger/2013.02.07.jpg %}
 
-I toasted the buns and added some microwaved corn to make it &#8220;healthy.&#8221; &nbsp;I used about 1/4 of the meat for each roll. &nbsp;They came out great and I look forward to making them again. 
+
+They came out great and I look forward to making them again. 
 
 Recipe:
 
 &#8211; 1ish lb ground beef  
-&#8211; 1/2cup chopped onion  
+&#8211; blogger/2cup chopped onion  
 &#8211; a bunch of minced garlic  
-&#8211; 3/4cup ketchup  
+&#8211; 4cup ketchup  
 &#8211; 3 teaspoons brown sugar  
 &#8211; salt  
 &#8211; pepper  
