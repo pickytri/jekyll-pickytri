@@ -14,11 +14,13 @@ v 0.4 - updated old blogger posts
 
 v 0.5 - created new post/updated format, pictures now links to pictures.
 
+v 0.5.1 - added jekyll-compose plugin
+
 Upcoming:
  * ~~fix old WP/blogger posts~~
    * ~~update WP video embeds in WP posts~~
    * ~~update image links in blogger posts~~
  * move/create hero images and add to resize in _config.yml
- * document process on internal dokuwiki
+ * ~~document process on internal dokuwiki~~
  * finalize image-resize sizes
  * ~~make new post about jekyll migration~~
