@@ -12,6 +12,8 @@ v 0.3.1 - fixed video embeds
 
 v 0.4 - updated old blogger posts
 
+v 0.5 - created new post/updated format, pictures now links to pictures.
+
 Upcoming:
  * ~~fix old WP/blogger posts~~
    * ~~update WP video embeds in WP posts~~
@@ -19,4 +21,4 @@ Upcoming:
  * move/create hero images and add to resize in _config.yml
  * document process on internal dokuwiki
  * finalize image-resize sizes
- * make new post about jekyll migration
+ * ~~make new post about jekyll migration~~
