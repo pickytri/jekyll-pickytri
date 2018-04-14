@@ -31,6 +31,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-responsive-image
+  - jekyll-algolia
 
 paginate: 12
 paginate_path: /page:num/
@@ -101,6 +102,14 @@ responsive_image:
     - assets/bgs/*.png
     - assets/avatars/*.{jpeg,jpg}
 
+search: true
+search_provider: algolia
+
+algolia:
+  application_id: 64PY7954AN
+  index_name: pickytri.com
+  search_only_api_key: 57e862e7bfca168652e1dcd664107182
+  powered_by: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

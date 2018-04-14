@@ -16,6 +16,8 @@ v 0.5 - created new post/updated format, pictures now links to pictures.
 
 v 0.5.1 - added jekyll-compose plugin
 
+v 0.6 - added search w/agolia
+
 Upcoming:
  * ~~fix old WP/blogger posts~~
    * ~~update WP video embeds in WP posts~~
@@ -24,3 +26,5 @@ Upcoming:
  * ~~document process on internal dokuwiki~~
  * finalize image-resize sizes
  * ~~make new post about jekyll migration~~
+ * ~~add search~~
+ * add comments
