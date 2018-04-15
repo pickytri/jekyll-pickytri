@@ -5,8 +5,8 @@ date: 2013-09-10T19:52:00+00:00
 author: matt
 layout: post
 image: 
-  path: /blogger/IMG_4203.jpg
-  thumbnail: /blogger/IMG_4203-300x200.jpg
+  path: /assets/images/headers/2013-09-10-pulled-buffalo-chicken-pizza.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-09-10-pulled-buffalo-chicken-pizza.jpg
 categories: food
 tags:
   - chicken

@@ -5,8 +5,8 @@ date: 2017-03-07T17:51:04+00:00
 author: matt
 layout: post
 image: 
-  path: /wp-content/uploads/2017/03/RaspberryPi3-1024x669.jpg
-  thumbnail: /wp-content/uploads/2017/03/RaspberryPi3-300x196.jpg
+  path: /assets/images/headers/2017-03-07-raspberry-pi-home-server-part-1-what-is-it-and-what-can-it-do.jpg
+  thumbnail: /assets/resized/480/images/headers/2017-03-07-raspberry-pi-home-server-part-1-what-is-it-and-what-can-it-do.jpg
 categories: tech
 tags: pi pihole
 ---

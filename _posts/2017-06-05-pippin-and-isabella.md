@@ -11,8 +11,8 @@ tags:
   - isabella
   - pippin
 image: 
-  path: /wp-content/uploads/2017/06/pippinandisabella-1200x681.jpg
-  thumbnail: /wp-content/uploads/2017/06/pippinandisabella-300x170.jpg
+  path: /assets/images/headers/2017-06-05-pippin-and-isabella.jpg
+  thumbnail: /assets/resized/480/images/headers/2017-06-05-pippin-and-isabella.jpg
 actions:
   - label: "Full Size"
     icon: download

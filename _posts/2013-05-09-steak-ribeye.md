@@ -5,8 +5,8 @@ date: 2013-05-09T22:00:00+00:00
 author: matt
 layout: post
 image: 
-  path: /blogger/IMG_4010.jpg
-  thumbnail: /blogger/IMG_4010-300x200.jpg
+  path: /assets/images/headers/2013-05-09-steak-ribeye.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-05-09-steak-ribeye.jpg
 categories: food
 tags:
   - steak

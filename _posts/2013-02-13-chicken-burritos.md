@@ -5,8 +5,8 @@ date: 2013-02-13T19:19:00+00:00
 author: matt
 layout: post
 image:
-  path: /blogger/IMAG0081.jpg
-  thumbnail: blogger/IMAG0081.jpg
+  path: /assets/images/headers/2013-02-13-chicken-burritos.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-02-13-chicken-burritos.jpg
 categories: food
 tags: chicken
 ---

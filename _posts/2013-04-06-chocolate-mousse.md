@@ -5,8 +5,8 @@ date: 2013-04-06T12:02:00+00:00
 author: matt
 layout: post
 image: 
-  path: /blogger/IMG_3957.jpg
-  thumbnail: /blogger/IMG_3957-300x200.jpg
+  path: /assets/images/headers/2013-04-06-chocolate-mousse.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-04-06-chocolate-mousse.jpg
 categories: food
 tags:
   - chocolate

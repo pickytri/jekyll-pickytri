@@ -5,8 +5,8 @@ date: 2017-03-07T19:23:02+00:00
 author: matt
 layout: post
 image: 
-  path: /wp-content/uploads/2017/03/VPN.jpg
-  thumbnail: /wp-content/uploads/2017/03/VPN-300x141.jpg
+  path: /assets/images/headers/2017-03-07-raspberry-pi-home-server-part-2-openvpn-and-more.jpg
+  thumbnail: /assets/resized/480/images/headers/2017-03-07-raspberry-pi-home-server-part-2-openvpn-and-more.jpg
 categories: tech
 tags: DASH LAMP OpenVPN pi plex syncthing
 ---

@@ -5,8 +5,8 @@ date: 2017-04-10T17:19:59+00:00
 author: matt
 layout: post
 image: 
-  path: /wp-content/uploads/2017/04/if04-2000x960.jpg
-  thumbnail: /wp-content/uploads/2017/04/if04-300x102.jpg
+  path: /assets/images/headers/2017-04-10-2010-ironman-france.jpg
+  thumbnail: /assets/resized/480/images/headers/2017-04-10-2010-ironman-france.jpg
 categories: races
 tags:
   - '2010'

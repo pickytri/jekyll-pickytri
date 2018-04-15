@@ -5,8 +5,8 @@ date: 2013-03-29T16:35:00+00:00
 author: matt
 layout: post
 image: 
-  path: /blogger/IMG_3943.jpg
-  thumbnail: /blogger/IMG_3943-300x200.jpg
+  path: /assets/images/headers/2013-03-29-sauteed-pork-tenderloin.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-03-29-sauteed-pork-tenderloin.jpg
 categories: food
 tags:
   - pork tenderloin

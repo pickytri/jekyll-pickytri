@@ -5,8 +5,8 @@ date: 2017-09-14 T 10:55:44+00:00
 author: matt
 layout: post
 image: 
-  path: /wp-content/uploads/2017/09/rearview-2000x1200.jpg
-  thumbnail: /wp-content/uploads/2017/09/rearview-300x225.jpg
+  path: /assets/images/headers/2017-09-14-going-west-my-move-to-colorado.jpg
+  thumbnail: /assets/resized/480/images/headers/2017-09-14-going-west-my-move-to-colorado.jpg
 categories:
   - misc
 tags:

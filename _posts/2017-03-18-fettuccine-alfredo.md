@@ -5,8 +5,8 @@ date: 2017-03-18T14:05:09+00:00
 author: matt
 layout: post
 image: 
-  path: /wp-content/uploads/2017/03/fet-alf07-2000x1200.jpg
-  thumbnail: /wp-content/uploads/2017/03/fet-alf07-300x201.jpg
+  path: /assets/images/headers/2017-03-18-fettuccine-alfredo.jpg
+  thumbnail: /assets/resized/480/images/headers/2017-03-18-fettuccine-alfredo.jpg
 categories: food
 tags: alfredo butter fettuccine parmesean pasta
 ---

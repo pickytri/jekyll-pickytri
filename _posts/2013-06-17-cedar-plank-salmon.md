@@ -5,8 +5,8 @@ date: 2013-06-17T14:02:00+00:00
 author: matt
 layout: post
 image: 
-  path: /blogger/IMG_4117.jpg
-  thumbnail: /blogger/IMG_4117-300x200.jpg
+  path: /assets/images/headers/2013-06-17-cedar-plank-salmon.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-06-17-cedar-plank-salmon.jpg
 categories: food
 tags:
   - fish

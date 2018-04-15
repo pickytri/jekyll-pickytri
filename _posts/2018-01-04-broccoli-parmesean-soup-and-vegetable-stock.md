@@ -6,8 +6,8 @@ author: matt
 layout: post
     
 image: 
-  path: /wp-content/uploads/2018/01/20-2000x1200.jpg
-  thumbnail: /wp-content/uploads/2018/01/20-300x225.jpg
+  path: /assets/images/headers/2018-01-04-broccoli-parmesean-soup-and-vegetable-stock.jpg
+  thumbnail: /assets/resized/480/images/headers/2018-01-04-broccoli-parmesean-soup-and-vegetable-stock.jpg
 categories: food
 tags: broccoli soup stock vegetable
 ---

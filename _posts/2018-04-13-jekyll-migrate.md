@@ -4,8 +4,8 @@ date: 2018-04-13
 author: matt
 layout: post
 image: 
-  path: /assets/jekyll-migrate/jekyll.png
-  thumbnail: /assets/jekyll-migrate/jekyll-400.png
+  path: /assets/images/headers/2018-04-13-jekyll-migrate.png
+  thumbnail: /assets/resized/480/images/headers/2018-04-13-jekyll-migrate.png
 categories: tech
 tags: hosting, server, wordpress, blog, website
 ---
@@ -25,19 +25,19 @@ Here are some comparisons between Jekyll and WordPress layouts (I probably could
 
 The main page on WordPress full screen:
 
-{% responsive_image path: assets/jekyll-migrate/wp-fullmain.png %}
+{% responsive_image path: assets/images/jekyll-migrate/wp-fullmain.png %}
 
 As you can see there is a lot of wasted space, compared to Jekyll:
 
-{% responsive_image path: assets/jekyll-migrate/jek-fullmain.png %}
+{% responsive_image path: assets/images/jekyll-migrate/jek-fullmain.png %}
 
 Next, here is a comparison of pictures in a post on a full screen:
 
-{% responsive_image path: assets/jekyll-migrate/wp-fullpic.png %}
+{% responsive_image path: assets/images/jekyll-migrate/wp-fullpic.png %}
 
 And compare that to Jekyll:
 
-{% responsive_image path: assets/jekyll-migrate/jek-fullpic.png %}
+{% responsive_image path: assets/images/jekyll-migrate/jek-fullpic.png %}
 
 So now you should see larger images and less wasted space.
 
@@ -45,19 +45,19 @@ So now you should see larger images and less wasted space.
 
 In this section you can see the speed improvements. I used [gtmetrix](https://gtmetrix.com) to generate a page speed report, here is the summary for WordPress:
 
-{% responsive_image path: assets/jekyll-migrate/wp-gtmetrix.png %}
+{% responsive_image path: assets/images/jekyll-migrate/wp-gtmetrix.png %}
 
 Compared to Jekyll:
 
-{% responsive_image path: assets/jekyll-migrate/jek-gtmetrix.png %}
+{% responsive_image path: assets/images/jekyll-migrate/jek-gtmetrix.png %}
 
 gtmetrix also provides a waterfall to show you how long elements on your page take to load, here it is for WordPress:
 
-{% responsive_image path: assets/jekyll-migrate/wp-waterfall.png %}
+{% responsive_image path: assets/images/jekyll-migrate/wp-waterfall.png %}
 
 And for Jekyll:
 
-{% responsive_image path: assets/jekyll-migrate/jek-waterfall.png %}
+{% responsive_image path: assets/images/jekyll-migrate/jek-waterfall.png %}
 
 The initial response takes almost twice as long with WordPress (695ms vs. 375ms), and then the rest of the page starts loading and with increased speed in Jekyll because of the image scaling. These are some pretty noticeable gains. Below is a table from Google Page Insights with the scores:
 

@@ -5,8 +5,8 @@ date: 2013-06-10T18:20:00+00:00
 author: matt
 layout: post
 image: 
-  path: /blogger/IMG_4082.jpg
-  thumbnail: /blogger/IMG_4082-300x200.jpg
+  path: /assets/images/headers/2013-06-10-pulled-pork.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-06-10-pulled-pork.jpg
 categories: food
 tags:
   - bbq

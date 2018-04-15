@@ -18,11 +18,14 @@ v 0.5.1 - added jekyll-compose plugin
 
 v 0.6 - added search w/agolia
 
+v 0.7 - removed old clutter/updated header images
+
 Upcoming:
  * ~~fix old WP/blogger posts~~
    * ~~update WP video embeds in WP posts~~
    * ~~update image links in blogger posts~~
- * move/create hero images and add to resize in _config.yml
+ * ~~move/create hero images and~~ 
+ * add header images to resize in _config.yml
  * ~~document process on internal dokuwiki~~
  * finalize image-resize sizes
  * ~~make new post about jekyll migration~~

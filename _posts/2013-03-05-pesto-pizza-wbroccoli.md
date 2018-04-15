@@ -5,8 +5,8 @@ date: 2013-03-05T20:12:00+00:00
 author: matt
 layout: post
 image: 
-  path: /blogger/IMAG0138.jpg
-  thumbnail: /blogger/IMAG0138.jpg
+  path: /assets/images/headers/2013-03-05-pesto-pizza-wbroccoli.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-03-05-pesto-pizza-wbroccoli.jpg
 categories: food
 tags:
   - pesto

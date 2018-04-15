@@ -98,9 +98,9 @@ responsive_image:
   # tags are resized. Here you can set a list of paths or path globs to resize other
   # images. This is useful for resizing images which will be referenced from stylesheets.
   extra_images:
-    - blogger/IMG_4248.jpg
-    - assets/bgs/*.png
-    - assets/avatars/*.{jpeg,jpg}
+    #- blogger/IMG_4248.jpg
+    #- assets/bgs/*.png
+    - assets/images/headers/*.{jpeg,jpg,png}
 
 search: true
 search_provider: algolia

@@ -5,8 +5,8 @@ date: 2013-03-29T16:07:00+00:00
 author: matt
 layout: post
 image: 
-  path: /blogger/IMG_3932.jpg
-  thumbnail: /blogger/IMG_3932-300x200.jpg
+  path: /assets/images/headers/2013-03-29-green-beans-and-almonds.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-03-29-green-beans-and-almonds.jpg
 categories: food
 tags:
   - green beans

@@ -5,8 +5,8 @@ date: 2017-05-29T15:24:21+00:00
 author: matt
 layout: post
 image: 
-  path: /wp-content/uploads/2017/05/cut2-2000x1200.jpg
-  thumbnail: /wp-content/uploads/2017/05/cut2-300x232.jpg
+  path: /assets/images/headers/2017-05-29-homemade-burger-buns.jpg
+  thumbnail: /assets/resized/480/images/headers/2017-05-29-homemade-burger-buns.jpg
 categories: food
 tags:
   - bread

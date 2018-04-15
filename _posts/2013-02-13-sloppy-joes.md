@@ -5,8 +5,8 @@ date: 2013-02-13T18:22:00+00:00
 author: matt
 layout: post
 image: 
-  path: /blogger/2013.02.07.jpg
-  thumbnail: /blogger/2013.02.07.jpg
+  path: /assets/images/headers/2013-02-13-sloppy-joes.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-02-13-sloppy-joes.jpg
 categories: food
 tags:
   - beef

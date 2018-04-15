@@ -5,8 +5,8 @@ date: 2017-05-15T16:07:08+00:00
 author: matt
 layout: post
 image: 
-  path: /wp-content/uploads/2017/05/sidebyside-2000x1200.jpg
-  thumbnail: /wp-content/uploads/2017/05/sidebyside-300x143.jpg
+  path: /assets/images/headers/2017-05-15-mac-and-cheese-showdown-i.jpg
+  thumbnail: /assets/resized/480/images/headers/2017-05-15-mac-and-cheese-showdown-i.jpg
 categories: food
 tags:
   - 3-ingredient

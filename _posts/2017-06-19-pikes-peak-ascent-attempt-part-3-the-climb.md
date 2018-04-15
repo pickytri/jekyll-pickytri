@@ -5,8 +5,8 @@ date: 2017-06-19T16:21:53+00:00
 author: matt
 layout: post
 image: 
-  path: /wp-content/uploads/2017/06/pikes_far-2000x1200.jpg
-  thumbnail: /wp-content/uploads/2017/06/pikes_far-300x210.jpg
+  path: /assets/images/headers/2017-06-19-pikes-peak-ascent-attempt-part-3-the-climb.jpg
+  thumbnail: /assets/resized/480/images/headers/2017-06-19-pikes-peak-ascent-attempt-part-3-the-climb.jpg
 categories: races
 tags:
   - colorado

@@ -5,8 +5,8 @@ date: 2013-05-28T08:03:00+00:00
 author: matt
 layout: post
 image: 
-  path: /blogger/IMG_4029.jpg
-  thumbnail: blogger/IMG_4029-300x200.jpg
+  path: /assets/images/headers/2013-05-28-scrambled-eggs.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-05-28-scrambled-eggs.jpg
 categories: food
 tags:
   - breakfast

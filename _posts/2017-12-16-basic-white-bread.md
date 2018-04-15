@@ -5,8 +5,8 @@ date: 2017-12-16 T 10:34:08+00:00
 author: matt
 layout: post
 image: 
-  path: /wp-content/uploads/2017/12/21.jpg
-  thumbnail: /wp-content/uploads/2017/12/21-300x288.jpg
+  path: /assets/images/headers/2017-12-16-basic-white-bread.jpg
+  thumbnail: /assets/resized/480/images/headers/2017-12-16-basic-white-bread.jpg
 categories: food
 tags:
   - bread

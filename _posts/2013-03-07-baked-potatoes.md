@@ -5,8 +5,8 @@ date: 2013-03-07T17:50:00+00:00
 author: matt
 layout: post
 iamge: 
-  path: /blogger/IMAG0144.jpg
-  thumbnail: /blogger/IMAG0144.jpg
+  path: /assets/images/headers/2013-03-07-baked-potatoes.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-03-07-baked-potatoes.jpg
 categories: food
 tags:
   - potato

@@ -5,8 +5,8 @@ date: 2013-04-22T07:22:00+00:00
 author: matt
 layout: post
 image: 
-  path: /blogger/IMG_3983.jpg
-  thumbnail: /blogger/IMG_3983-300x200.jpg
+  path: /assets/images/headers/2013-04-22-pasta-and-tomato-sauce.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-04-22-pasta-and-tomato-sauce.jpg
 categories: food
 tags:
   - pasta

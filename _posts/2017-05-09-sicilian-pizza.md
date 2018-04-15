@@ -5,8 +5,8 @@ date: 2017-05-09T08:29:50+00:00
 author: matt
 layout: post
 image: 
-  path: /wp-content/uploads/2017/05/p0-2000x1200.jpg
-  thumbnail: /wp-content/uploads/2017/05/p0-300x186.jpg
+  path: /assets/images/headers/2017-05-09-sicilian-pizza.jpg
+  thumbnail: /assets/resized/480/images/headers/2017-05-09-sicilian-pizza.jpg
 categories: food
 tags:
   - mozarella

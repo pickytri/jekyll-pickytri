@@ -5,8 +5,8 @@ date: 2017-04-17T14:50:27+00:00
 author: matt
 layout: post
 image: 
-  path: /wp-content/uploads/2017/04/fa09-2000x1200.jpg
-  thumbnail: /wp-content/uploads/2017/04/fa09-300x239.jpg
+  path: /assets/images/headers/2017-04-17-lighter-fettuccine-alfredo-ii.jpg
+  thumbnail: /assets/resized/480/images/headers/2017-04-17-lighter-fettuccine-alfredo-ii.jpg
 categories: food
 tags:
   - alfredo

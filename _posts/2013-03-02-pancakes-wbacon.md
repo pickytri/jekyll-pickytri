@@ -5,8 +5,8 @@ date: 2013-03-02T21:05:00+00:00
 author: matt
 layout: post
 image:
-  path: /blogger/IMAG0125.jpg
-  thumbnail: /blogger/IMAG0125.jpg
+  path: /assets/images/headers/2013-03-02-pancakes-wbacon.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-03-02-pancakes-wbacon.jpg
 categories: food
 tags:
   - breakfast

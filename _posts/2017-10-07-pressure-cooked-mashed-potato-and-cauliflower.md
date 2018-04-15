@@ -5,8 +5,8 @@ date: 2017-10-07T11:22:45+00:00
 author: matt
 layout: post
 image: 
-  path: /wp-content/uploads/2017/10/19-2000x1200.jpg
-  thumbnail: /wp-content/uploads/2017/10/19-300x225.jpg
+  path: /assets/images/headers/2017-10-07-pressure-cooked-mashed-potato-and-cauliflower.jpg
+  thumbnail: /assets/resized/480/images/headers/2017-10-07-pressure-cooked-mashed-potato-and-cauliflower.jpg
 categories: food
 tags: 
   - cauliflower 

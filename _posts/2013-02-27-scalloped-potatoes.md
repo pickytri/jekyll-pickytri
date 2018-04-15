@@ -4,8 +4,9 @@ title: Scalloped Potatoes
 date: 2013-02-27T11:19:00+00:00
 author: matt
 layout: post
-image:
-  path: 
+image: 
+  path: /assets/images/headers/2013-02-27-scalloped-potatoes.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-02-27-scalloped-potatoes.jpg
 categories: food
 tags:
   - potato

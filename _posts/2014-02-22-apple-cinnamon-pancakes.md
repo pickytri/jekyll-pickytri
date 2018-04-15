@@ -5,8 +5,8 @@ date: 2014-02-22T07:25:00+00:00
 author: matt
 layout: post
 image: 
-  path: /blogger/IMG_4296.jpg
-  thumbnail: /blogger/IMG_4296-300x200.jpg
+  path: /assets/images/headers/2014-02-22-apple-cinnamon-pancakes.jpg
+  thumbnail: /assets/resized/480/images/headers/2014-02-22-apple-cinnamon-pancakes.jpg
 categories: food
 tags:
   - breakfast

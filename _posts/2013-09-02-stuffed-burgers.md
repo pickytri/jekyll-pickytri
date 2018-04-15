@@ -5,8 +5,8 @@ date: 2013-09-02T22:27:00+00:00
 author: matt
 layout: post
 image: 
-  path: blogger/IMAG0224.jpg
-  thumbnail: blogger/IMAG0224-300x179.jpg
+  path: /assets/images/headers/2013-09-02-stuffed-burgers.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-09-02-stuffed-burgers.jpg
 categories: food
 tags:
   - burgers

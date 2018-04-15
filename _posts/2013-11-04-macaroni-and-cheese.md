@@ -5,8 +5,8 @@ date: 2013-11-04T15:23:00+00:00
 author: matt
 layout: post
 image: 
-  path: /blogger/IMG_4248.jpg
-  thumbnail: /assets/resized/480/blogger/IMG_4248.jpg
+  path: /assets/images/headers/2013-11-04-macaroni-and-cheese.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-11-04-macaroni-and-cheese.jpg
 categories: food
 tags:
   - baked

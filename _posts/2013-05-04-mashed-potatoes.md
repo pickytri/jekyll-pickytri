@@ -5,8 +5,8 @@ date: 2013-05-04T12:14:00+00:00
 author: matt
 layout: post
 image: 
-  path: /blogger/IMG_3999.jpg
-  thumbnail: /blogger/IMG_3999-300x200.jpg
+  path: /assets/images/headers/2013-05-04-mashed-potatoes.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-05-04-mashed-potatoes.jpg
 categories: food
 tags:
   - potato

@@ -5,8 +5,8 @@ date: 2017-03-10T17:56:49+00:00
 author: matt
 layout: post
 image: 
-  path: /wp-content/uploads/2017/03/spin_ric10-2000x1200.jpg
-  thumbnail: /wp-content/uploads/2017/03/spin_ric10-300x262.jpg
+  path: /assets/images/headers/2017-03-10-spinach-and-ricotta-pasta.jpg
+  thumbnail: /assets/resized/480/images/headers/2017-03-10-spinach-and-ricotta-pasta.jpg
 categories: food
 tags: fettuccine olive oil pasta ricotta spinach
 ---

@@ -5,8 +5,8 @@ date: 2013-08-28T22:41:00+00:00
 author: matt
 layout: post
 image: 
-  path: blogger/IMG_4169.jpg
-  thumbnail: blogger/IMG_4169-300x200.jpg
+  path: /assets/images/headers/2013-08-28-mexican-pizza.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-08-28-mexican-pizza.jpg
 categories: food
 tags:
   - beef

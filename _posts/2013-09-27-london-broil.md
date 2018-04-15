@@ -5,8 +5,8 @@ date: 2013-09-27T15:18:00+00:00
 author: matt
 layout: post
 image: 
-  path: blogger/IMG_4230.jpg
-  thumbnail: blogger/IMG_4230-300x200.jpg
+  path: /assets/images/headers/2013-09-27-london-broil.jpg
+  thumbnail: /assets/resized/480/images/headers/2013-09-27-london-broil.jpg
 categories: food
 tags:
   - grill

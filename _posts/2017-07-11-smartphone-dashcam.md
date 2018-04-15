@@ -5,8 +5,8 @@ date: 2017-07-11T14:59:42+00:00
 author: matt
 layout: post
 image: 
-  path: /wp-content/uploads/2017/07/vid4.png
-  thumbnail: /wp-content/uploads/2017/07/vid4-300x169.png
+  path: /assets/images/headers/2017-07-11-smartphone-dashcam.png
+  thumbnail: /assets/resized/480/images/headers/2017-07-11-smartphone-dashcam.png
 categories: tech
 tags:
   - smartphone
