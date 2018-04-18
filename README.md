@@ -25,7 +25,7 @@ Upcoming:
    * ~~update WP video embeds in WP posts~~
    * ~~update image links in blogger posts~~
  * ~~move/create hero images and~~ 
- * add header images to resize in _config.yml
+ * ~~add header images to resize in _config.yml~~
  * ~~document process on internal dokuwiki~~
  * finalize image-resize sizes
  * ~~make new post about jekyll migration~~
